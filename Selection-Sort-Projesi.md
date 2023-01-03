@@ -1,4 +1,4 @@
-# Veri-Yapıları-ve-Algoritmalar-Selection-Sort-Projesi (www.patika.dev)
+# Veri-Yapıları-ve-Algoritmalar-Projeleri (www.patika.dev)
 # Soru 1
 [22,27,16,2,18,6] -> Insertion Sort
 
