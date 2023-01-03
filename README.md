@@ -1,1 +1,1 @@
-# Veri-Yap-lar-ve-Algoritmalar-Selection-Sort-Projesi
+# Veri-Yapilar-ve-Algoritmalar-Selection-Sort-Projesi
