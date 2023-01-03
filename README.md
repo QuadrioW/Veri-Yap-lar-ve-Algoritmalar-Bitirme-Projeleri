@@ -1,4 +1,4 @@
-# Veri-Yapilar-ve-Algoritmalar-Selection-Sort-Projesi
+# Veri-Yapıları-ve-Algoritmalar-Selection-Sort-Projesi
 # Soru 1
 [22,27,16,2,18,6] -> Insertion Sort
 
